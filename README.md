@@ -14,6 +14,13 @@ This repository includes CAD files for:
 - The OpenPPG ICE (Internal Combustion Engine) Power Pack.
 - Electric Power Pack components including the battery pack, motor, and mounting hardware.
 
+
+<p float="left">
+  <img src="images/frame1.jpg" width="32%" />
+  <img src="images/frame2.jpg" width="32%" />
+  <img src="images/e-power-pack.jpg" width="32%" />
+</p>
+
 ## Viewing STEP Files
 
 The CAD drawings in this repository are saved in the STEP file format, which is an ISO standard for the exchange of product model data. This format is supported by many CAD programs across various platforms.
